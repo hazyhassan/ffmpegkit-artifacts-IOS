@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "6.0"
   s.summary      = "Precompiled ffmpeg-kit-ios-https 6.0"
   s.homepage     = "https://github.com/hazyhassan/ffmpegkit-artifacts-IOS"
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT" }
   s.author       = { "Hassan" => "you@example.com" }
 
   s.platform     = :ios, "12.0"
